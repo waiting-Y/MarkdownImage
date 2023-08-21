@@ -7,3 +7,5 @@ Github+picGo搭建图床
 5. picGo,设置仓库名（如https://github.com/waiting-Y/MarkdownImage）
 6. 设置分支名，必须为 main（否则默认使用master分支，而现在github创建的默认分支名为main）
 7. 设置自定义域名：https://cdn.jsdelivr.net/gh/[github用户名]/[仓库名]@main（如 https://cdn.jsdelivr.net/gh/waiting-Y/MarkdownImage@main）
+
+参考教程：https://zhuanlan.zhihu.com/p/489236769
